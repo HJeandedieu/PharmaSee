@@ -21,6 +21,6 @@ Resolve current coordinates or a manually entered place to a search origin. Filt
 
 ## Operational checks
 
-Track verification errors, routing errors, failed inventory writes, and request latency. Keep medicine-search terms, locations, and license images out of routine logs. Before release, prove concurrent checkout-recording attempts cannot oversell and a retried write cannot double-count a movement. Review privacy and retention for license files, location, and search history.
+Track verification errors, routing errors, failed inventory writes, and request latency. Keep medicine-search terms, locations, and license images out of routine logs. Before release, prove concurrent sale-recording attempts cannot oversell and a retried write cannot double-count a movement. Review privacy and retention for license files, location, and search history.
 
 Framework, hosting, database engine, and processing providers remain open. The [API draft](openapi.json) defines the mobile boundary independently of those choices.

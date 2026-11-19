@@ -30,4 +30,4 @@ PharmaSee helps clients find verified pharmacies with the medicine they need in 
 | Corrections and returns | Sale reversals, customer returns, supplier returns, and damaged or expired stock produce traceable adjustments. A customer return only restores sellable stock when eligible. |
 | Dashboard | Period totals reconcile with recorded sales, returns, inventory cost, and expenses under the agreed accounting rules. |
 
-See [business rules](business-rules.md), [technical design](technical-design.md), and the [release plan](implementation-plan.md).
+See [business rules](business-rules.md), [technical design](technical-design.md), and the [draft API contract](openapi.json).
